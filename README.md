@@ -20,7 +20,7 @@
 - 🎓 B.Tech Student | Web Developer
 
 - 🔗 Portfolio: [lokeshloki.site](https://lokeshloki.site)
-- 📫 Email: lokesh152005@gmail.com
+- 📫 Email: lokeshloki.site@gmail.com
 
 ---
 
